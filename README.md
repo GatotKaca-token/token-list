@@ -49,10 +49,17 @@ The GKC token is used for transactions within the Gatot Kaca ecosystem, includin
 - **Discord:** [https://discord.gg/gatotkacatoken](https://discord.com/invite/znJFeQdk)
 
 ## Security and Audits
-The GKC token smart contract has been audited by [Cemara Private Equity], ensuring its security and reliability.
+The GKC token smart contract has been audited by Cemara Private Equity, ensuring its security and reliability.
 
 ## How to Buy
 GKC tokens can be purchased on [[Dexlab](https://v3.dexlab.space/pools)], [[Jupiter](https://jup.ag/)], and directly through our website using supported wallets like MetaMask.
+
+## Contributing
+Contributions are welcome! By contributing to this project, you agree to the Developer Certificate of Origin (DCO).
+
+### Developer Certificate of Origin (DCO)
+This project uses the Developer Certificate of Origin (DCO) to ensure that contributions are made with the proper rights and permissions. The DCO is a simple and clear mechanism for contributors to certify their rights to the code they submit.
+Please read and sign the [DCO](DCO) before contributing.
 
 ## Contact Information
 - **Email:** gatotkaca@cemarareseller.com

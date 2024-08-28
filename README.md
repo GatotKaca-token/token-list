@@ -38,12 +38,12 @@ The GKC token is used for transactions within the Gatot Kaca ecosystem, includin
 - **Q4 2024:** Launch of governance features and community initiatives.
 
 ## Team
-- **Yohanes Indra Priaatmaja:** CEO - Experienced blockchain entrepreneur.
-- **Bobby Eltarik:** CTO - Blockchain developer and smart contract expert.
-- **Rohollah Behestani:** COO - Operations and strategic planning specialist.
+- **Bobby Eltarik:** CEO - Experienced blockchain entrepreneur.
+- **Yohanes Indra Priaatmaja:** CTO - Blockchain developer and smart contract expert.
+- **Kongali1720:** COO - Operations and strategic planning specialist.
 
 ## Community and Social Media
-- **Website:** [https://www.cemarareseller.com](https://www.cemarareseller.com)
+- **Website:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
 - **Twitter:** [https://twitter.com/gatotkacatoken](https://x.com/KacaGkc28615?t=nfUC9-rFlrTkUbPCqnkJZw&s=09)
 - **Telegram:** [https://t.me/gatotkacatoken](https://t.me/+asf1CA-JjLE5ZGZl)
 - **Discord:** [https://discord.gg/gatotkacatoken](https://discord.com/invite/znJFeQdk)
@@ -63,7 +63,7 @@ Please read and sign the [DCO](DCO) before contributing.
 
 ## Contact Information
 - **Email:** gatotkaca@cemarareseller.com
-- **Support:** [https://www.cemarareseller.com](https://www.cemarareseller.com)
+- **Support:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

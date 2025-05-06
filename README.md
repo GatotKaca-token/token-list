@@ -40,7 +40,7 @@ The GKC token is used for transactions within the Gatot Kaca ecosystem, includin
 ## Team
 - **Bobby Eltarik:** CEO - Experienced blockchain entrepreneur.
 - **Yohanes Indra Priaatmaja:** CTO - Blockchain developer and smart contract expert.
-- **Kongali1720:** COO - Operations and strategic planning specialist.
+- **PT CEMARA ANUGERAH ABADI:** COO - Operations and strategic planning specialist.
 
 ## Community and Social Media
 - **Website:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)

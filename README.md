@@ -32,21 +32,21 @@ The GKC token is used for transactions within the Gatot Kaca ecosystem, includin
   - 10% for Team and Advisors
 
 ## Roadmap
-- **Q1 2024:** Launch of GKC token and initial exchange listings.
-- **Q2 2024:** Integration with DeFi platforms and launch of staking program.
-- **Q3 2024:** Expansion of partnerships and ecosystem development.
-- **Q4 2024:** Launch of governance features and community initiatives.
+- **Q1 2025:** Launch of GKC token and initial exchange listings.
+- **Q2 2025:** Integration with DeFi platforms and launch of staking program.
+- **Q3 2025:** Expansion of partnerships and ecosystem development.
+- **Q4 2025:** Launch of governance features and community initiatives.
 
 ## Team
-- **Bobby Eltarik:** CEO - Experienced blockchain entrepreneur.
-- **Yohanes Indra Priaatmaja:** CTO - Blockchain developer and smart contract expert.
-- **Kongali1720:** COO - Operations and strategic planning specialist.
+- **Mr Bobby Eltarik:** CEO - Experienced blockchain entrepreneur.
+- **Mr Y Indra Priaatmaja:** CTO - Blockchain developer and smart contract expert.
+- **Mr Romin:** COO - Operations and strategic planning specialist.
 
 ## Community and Social Media
 - **Website:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
 - **Twitter:** [https://twitter.com/gatotkacatoken](https://x.com/KacaGkc28615?t=nfUC9-rFlrTkUbPCqnkJZw&s=09)
-- **Telegram:** [https://t.me/gatotkacatoken](https://t.me/+asf1CA-JjLE5ZGZl)
-- **Discord:** [https://discord.gg/gatotkacatoken](https://discord.com/invite/znJFeQdk)
+- **Telegram:** [https://t.me/gatotkacatoken](https://t.me/GatotKacaToken)
+- **Discord:** [https://discord.gg/gatotkacatoken](https://discord.gg/vtHsSEDQ4t)
 
 ## Security and Audits
 The GKC token smart contract has been audited by Cemara Private Equity, ensuring its security and reliability.
@@ -62,7 +62,7 @@ This project uses the Developer Certificate of Origin (DCO) to ensure that contr
 Please read and sign the [DCO](DCO) before contributing.
 
 ## Contact Information
-- **Email:** gatotkaca@cemarareseller.com
+- **Email:** indra@gatotkacacemara.com
 - **Support:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
 
 ## License

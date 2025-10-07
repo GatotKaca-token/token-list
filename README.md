@@ -1,17 +1,17 @@
-# Gatot Kaca Token (GKC)
+# Gatot Koco Token (GKC)
 
 ## Introduction
-Gatot Kaca Token (GKC) is a decentralized cryptocurrency designed to power the Gatot Kaca ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
+Gatot Koco Token (GKC) is a decentralized cryptocurrency designed to power the Gatot Kaca ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
 
 ## Token Details
-- **Token Name:** Gatot Kaca Token
+- **Token Name:** Gatot Koco Token
 - **Token Symbol:** GKC
 - **Decimals:** 9
 - **Blockchain:** Solana
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
 
 ## Purpose and Use Case
-The GKC token is used for transactions within the Gatot Kaca ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
+The GKC token is used for transactions within the Gatot Koco ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
 
 ## Features
 - **Staking Rewards:** Earn rewards by staking GKC tokens.
@@ -44,9 +44,9 @@ The GKC token is used for transactions within the Gatot Kaca ecosystem, includin
 
 ## Community and Social Media
 - **Website:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
-- **Twitter:** [https://twitter.com/gatotkacatoken](https://x.com/KacaGkc28615?t=nfUC9-rFlrTkUbPCqnkJZw&s=09)
-- **Telegram:** [https://t.me/gatotkacatoken](https://t.me/GatotKacaToken)
-- **Discord:** [https://discord.gg/gatotkacatoken](https://discord.gg/vtHsSEDQ4t)
+- **Twitter:** [https://twitter.com/gatotkocotoken](https://x.com/KacaGkc28615?t=nfUC9-rFlrTkUbPCqnkJZw&s=09)
+- **Telegram:** [https://t.me/gatotkacatoken](https://t.me/GatotKocoToken)
+- **Discord:** [https://discord.gg/gatotkocotoken](https://discord.gg/vtHsSEDQ4t)
 
 ## Security and Audits
 The GKC token smart contract has been audited by Cemara Private Equity, ensuring its security and reliability.

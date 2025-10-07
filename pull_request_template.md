@@ -1,4 +1,4 @@
-# Validate [Gatot Koco Token (GKC)](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+# Validate [GATOTKOCO (GKC) TOKEN](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: (https://x.com/KacaGkc28615/status/1802374913833218110?t=prOlpNmI2nhd90XhtBlvWg&s=19)
@@ -16,8 +16,8 @@
 - [x] Please make sure your pull request title has your token name. If it just says "Main", or "Validate", it will automatically be closed. PRs containing broken attestation or solscan links will also be closed.
 
 ## Token Details
-- **Token Name:** Gatot Koco Token
+- **Token Name:** GATOTKOCO
 - **Token Symbol:** GKC
 - **Token Decimal:** 9
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
-- **Solscan Link:** [Gatot Koco Token on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+- **Solscan Link:** [GATOTKOCO (GKC) TOKEN on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)

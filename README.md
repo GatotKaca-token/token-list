@@ -45,7 +45,7 @@ The GKC token is used for transactions within the Gatot Koco ecosystem, includin
 ## Community and Social Media
 - **Website:** [https://www.gatotkacacemara.com](https://www.gatotkacacemara.com)
 - **Twitter:** [https://twitter.com/gatotkocotoken](https://x.com/KacaGkc28615?t=nfUC9-rFlrTkUbPCqnkJZw&s=09)
-- **Telegram:** [https://t.me/gatotkacatoken](https://t.me/GatotKocoToken)
+- **Telegram:** [https://t.me/gatotkocotoken](https://t.me/GatotKocoToken)
 - **Discord:** [https://discord.gg/gatotkocotoken](https://discord.gg/vtHsSEDQ4t)
 
 ## Security and Audits

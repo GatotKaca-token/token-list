@@ -1,7 +1,7 @@
 # GATOTKOCO (GKC) TOKEN
 
 ## Introduction
-GATOTKOCO (GKC) TOKEN is a decentralized cryptocurrency designed to power the Gatot Kaca ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
+GATOTKOCO (GKC) TOKEN is a decentralized cryptocurrency designed to power the GATOTKOCO ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
 
 ## Token Details
 - **Token Name:** GATOTKOCO

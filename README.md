@@ -1,17 +1,17 @@
-# Gatot Koco Token (GKC)
+# GATOTKOCO (GKC) TOKEN
 
 ## Introduction
-Gatot Koco Token (GKC) is a decentralized cryptocurrency designed to power the Gatot Kaca ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
+GATOTKOCO (GKC) TOKEN is a decentralized cryptocurrency designed to power the Gatot Kaca ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
 
 ## Token Details
-- **Token Name:** Gatot Koco Token
+- **Token Name:** GATOTKOCO
 - **Token Symbol:** GKC
 - **Decimals:** 9
 - **Blockchain:** Solana
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
 
 ## Purpose and Use Case
-The GKC token is used for transactions within the Gatot Koco ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
+The GKC token is used for transactions within the GATOTKOCO ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
 
 ## Features
 - **Staking Rewards:** Earn rewards by staking GKC tokens.

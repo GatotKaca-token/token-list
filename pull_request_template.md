@@ -1,8 +1,8 @@
-# Validate [Gatot Kaca Token (GKC)](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+# Validate [GATOTKOCO (GATCO) TOKEN](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: (https://x.com/KacaGkc28615/status/1802374913833218110?t=prOlpNmI2nhd90XhtBlvWg&s=19)
-- Coingecko/ CMC URL (If available): Still working to get coin gecko set up for Gatot Kaca Token (GKC)
+- Coingecko/ CMC URL (If available): Still working to get coin gecko set up for GATOTKOCO (GATCO) TOKEN
 
 ## Validation (Please check off boxes):
 - [x] The metadata provided in the PR matches what is on-chain (Mandatory)
@@ -16,8 +16,8 @@
 - [x] Please make sure your pull request title has your token name. If it just says "Main", or "Validate", it will automatically be closed. PRs containing broken attestation or solscan links will also be closed.
 
 ## Token Details
-- **Token Name:** Gatot Kaca Token
-- **Token Symbol:** GKC
+- **Token Name:** GATOTKOCO
+- **Token Symbol:** GATCO
 - **Token Decimal:** 9
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
-- **Solscan Link:** [Gatot Kaca Token on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+- **Solscan Link:** [GATOTKOCO (GATCO) TOKEN on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)

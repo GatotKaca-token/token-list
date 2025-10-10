@@ -1,4 +1,4 @@
-# GATOTKOCO (GATCO) TOKEN
+# GATOTKOCO (GATCO) Token
 
 ## Introduction
 GATOTKOCO (GATCO) TOKEN is a decentralized cryptocurrency designed to power the GATOTKOCO ecosystem, promoting financial inclusion and empowering users with innovative blockchain solutions.
@@ -11,7 +11,7 @@ GATOTKOCO (GATCO) TOKEN is a decentralized cryptocurrency designed to power the 
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
 
 ## Purpose and Use Case
-The GATCO token is used for transactions within the GATOTKOCO ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
+The GATCO token is used for transactions within the Gatot Kaca ecosystem, including staking, governance, and accessing premium features. It aims to create a seamless and efficient platform for users to engage in decentralized finance (DeFi) activities.
 
 ## Features
 - **Staking Rewards:** Earn rewards by staking GATCO tokens.

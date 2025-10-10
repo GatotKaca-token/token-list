@@ -1,8 +1,8 @@
-# Validate [GATOTKOCO (GKC) TOKEN](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+# Validate [GATOTKOCO (GATCO) TOKEN](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
 
 ## Attestations (Please provide links):
 - Tweet from your Twitter Account attesting the Mint address, tagging [@JupiterExchange](https://twitter.com/JupiterExchange) and showing community support: (https://x.com/KacaGkc28615/status/1802374913833218110?t=prOlpNmI2nhd90XhtBlvWg&s=19)
-- Coingecko/ CMC URL (If available): Still working to get coin gecko set up for Gatot Koco Token (GKC)
+- Coingecko/ CMC URL (If available): Still working to get coin gecko set up for GATOTKOCO (GATCO) TOKEN
 
 ## Validation (Please check off boxes):
 - [x] The metadata provided in the PR matches what is on-chain (Mandatory)
@@ -17,7 +17,7 @@
 
 ## Token Details
 - **Token Name:** GATOTKOCO
-- **Token Symbol:** GKC
+- **Token Symbol:** GATCO
 - **Token Decimal:** 9
 - **Mint Address:** B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM
-- **Solscan Link:** [GATOTKOCO (GKC) TOKEN on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)
+- **Solscan Link:** [GATOTKOCO (GATCO) TOKEN on Solscan](https://solscan.io/token/B44PqeTXGY3NaKhBupvNuEhQhjdNw2ko6Q5oFpHLCshM)

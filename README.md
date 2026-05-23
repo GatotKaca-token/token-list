@@ -38,7 +38,7 @@ The GATCO token is used for transactions within the Gatot Kaca ecosystem, includ
 - **Q4 2025:** Launch of governance features and community initiatives.
 
 ## Team
-- **Mr Bobby Eltarik:** CEO - Experienced blockchain entrepreneur.
+- **Mr Bucuy:** CEO - Experienced blockchain entrepreneur.
 - **Mr Y Indra Priaatmaja:** CTO - Blockchain developer and smart contract expert.
 - **Mr Romin:** COO - Operations and strategic planning specialist.
 
